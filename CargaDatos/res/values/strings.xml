@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">CargaDatos</string>    
+    <string name="menu_settings">CargaDatos</string>
+    <string name="title_activity_carga">CargaActivity</string>
+    <string name="title_activity_main">MainActivity</string>    
+    <string name="saludo">Bienvenido</string>
+    <string name="Yo">Yo quiero descubrir</string>
+    <string name="Que">Que hay para hacer</string>
+    <string name="Rutas">Rutas</string>
+    <string name="Hoteles">Hoteles</string>
+    <string name="Restaurantes">Restaurantes</string>
+    <string name="Tours">Tours</string>
+    <string name="Transportes">Transportes</string>
+    <string name="Destinos">Destinos</string>
+ </resources>
